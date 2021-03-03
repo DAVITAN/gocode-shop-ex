@@ -34,7 +34,7 @@ function App() {
     return (
         <div>
             <Button >fefe</Button>
-            <Slider defaultValue={30}  onChange={onSliderChange} />
+            
             <Router>
                 <div>
                     <nav>
